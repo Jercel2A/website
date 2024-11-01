@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    background-color: #826565;
+    height:90px;
+    width:100%;
+}
+.title{
+    float:left;
+    line-height:90px; 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+}
+.nav{
+    float:right;
+    line-height:90px; 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 10px;    
+}
+
+a{
+    Text-decoration: none;
+    Font-weight: bold;
+    Margin-right: 10px;
+}
+.container{
+    background-image:url(x.jpg);
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
